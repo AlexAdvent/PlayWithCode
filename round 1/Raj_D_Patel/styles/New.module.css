@@ -1,0 +1,61 @@
+.Main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: rgba(18, 18, 18, 1);
+}
+
+.footer {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem 0;
+    border-top: 1px solid #eaeaea;
+    border-bottom: 1px solid #eaeaea;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.footer a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+}
+
+.Logo {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Moto {
+    font-family: serif;
+    letter-spacing: 5px;
+    margin-left: 205px;
+    margin-right: 205px;
+}
+
+.Menu {
+    width: 450px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Socials {
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Mail {
+    margin-left: 105px;
+    margin-right: 105px;
+
+}
