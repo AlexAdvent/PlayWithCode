@@ -1,0 +1,47 @@
+.Main {
+    background: white;
+}
+
+.First {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Left {
+    display: flex;
+    flex-direction: column;
+}
+
+.Detail1 {
+    font-family: 'Saira';
+    font-style: normal;
+    height: 225px;
+    width: 640px;
+    font-weight: 900;
+    font-size: 63px;
+    margin-left: 250px;
+    margin-right: 250px;
+    /* or 119% */
+
+    color: #000000;
+}
+
+
+.Detail2 {
+    font-family: 'Saira SemiCondensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    height: 87px;
+    width: 545px;
+
+    margin-left: 250px;
+    margin-right: 300px;
+    /* or 138% */
+
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
