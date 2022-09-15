@@ -12,7 +12,7 @@ This repository is the of parth Abhiyantrik 2022 organized by cgpit.
 
 ## Nomenclature for submitting your files.
 
-All participants are requested to save your files in respective round folder within folder of leader name.
+All the participants are requested to save your files in respective round folder within folder of leader name.
 
 ```
   example : alex_advent
