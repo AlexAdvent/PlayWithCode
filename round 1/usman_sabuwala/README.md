@@ -2,6 +2,10 @@ Submission by Usman Sabuwala
 
 To run this project, follow these steps
 
+This site is built using [Astro](https://astro.build)! Astro is an amazing static site generator
+
+[Tailwind CSS](https://tailwindcss.com) is used for the design
+
 1. Clone this repo
 
 ```
